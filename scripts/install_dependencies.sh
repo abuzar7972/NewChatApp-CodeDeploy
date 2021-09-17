@@ -1,4 +1,4 @@
 #!/bin/bash
 
-source /home/ubuntu/venv/bin/activate
-cd /home/ubuntu/new_chatapp
+source home/ubuntu/new_chatapp/venv/bin/activate
+cd /home/ubuntu/new_chatapp/fundoo/fundooapp/templates
